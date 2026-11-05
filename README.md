@@ -4,6 +4,15 @@ Final product decisions, priced 5 Nov 2026. The same list as data: [`items.csv`]
 
 One Nisbets order and one IKEA order, plus board oil from Amazon.
 
+## Total
+
+| Order | Inc GST, with delivery |
+|---|---|
+| Nisbets | $299.42 |
+| IKEA | $524.03 |
+| Amazon | $18.69 |
+| **Total** | **$842.14** |
+
 ## Nisbets
 
 Prices are ex GST.
@@ -23,9 +32,9 @@ Prices are ex GST.
 | [Nisbets Essentials knife block set](https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083) (chef's, bread, paring, utility, slicer) | DA083 | 1 | $54.90 |
 | [Chef Inox stainless steel dough scraper 150×90mm](https://www.nisbets.com.au/chef-inox-stainless-steel-dough-scraper---150x90mm/fw343) | FW343 | 1 | $8.90 |
 | [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $24.90 |
+| Delivery to Melbourne metro (free over $200 ex GST) | | | $0.00 |
 | **Total** | | | **$272.20 ex GST ($299.42 inc GST)** |
 
-- Delivery to Melbourne metro is free over $200 ex GST.
 - Knives are hand-wash only.
 - The tumbler page title and URL say 310ml, but the spec and code GF927 are the 285ml. Sold in 12-packs only.
 
@@ -44,9 +53,10 @@ Prices are inc GST.
 | [SKÄRANDE knife sharpener](https://www.ikea.com/au/en/p/skaerande-knife-sharpener-black-30289170/) (pull-through, ceramic wheels) | 1 | $13.49 |
 | [IKEA 365+ dinner plate, white, 27cm](https://www.ikea.com/au/en/p/ikea-365-plate-white-90258948/) | 6 | $4.49 |
 | [IKEA 365+ bowl, rounded sides, white, 22cm](https://www.ikea.com/au/en/p/ikea-365-bowl-rounded-sides-white-60279688/) (min. order 4) | 6 | $8.09 |
-| **Total** | | **$475.03** |
+| Delivery to 3053 | | $49.00 |
+| **Total** | | **$524.03** |
 
-- Delivery is extra: from $49. The bed legs can't be collected in store, so check the delivery cost to the address before checkout.
+- The bed legs can't be collected in store, so the order needs delivery.
 - Bamboo boards and the SKÄRANDE are hand-wash only. The SKÄRANDE container must be filled with water while in use.
 
 ## Amazon
@@ -54,5 +64,7 @@ Prices are inc GST.
 | Item | Price |
 |---|---|
 | [Orana food grade mineral oil 200ml](https://www.amazon.com.au/dp/B0DK2RFBVT) (Australian made) | $18.69 |
+| Delivery (free on a first order) | $0.00 |
+| **Total** | **$18.69** |
 
 Use on the bamboo boards now and then.

@@ -2,7 +2,7 @@
 
 Final product decisions, priced 5 Nov 2026. The same list as data: [`items.csv`](items.csv).
 
-One Nisbets order and one IKEA order, plus board oil from Bunnings.
+One Nisbets order and one IKEA order, plus board oil from Amazon.
 
 ## Nisbets
 
@@ -49,10 +49,10 @@ Prices are inc GST.
 - Delivery is extra: from $49. The bed legs can't be collected in store, so check the delivery cost to the address before checkout.
 - Bamboo boards and the SKÄRANDE are hand-wash only. The SKÄRANDE container must be filled with water while in use.
 
-## Bunnings
+## Amazon
 
 | Item | Price |
 |---|---|
-| [Gilly's chopping board oil 250ml](https://www.bunnings.com.au/gilly-s-250ml-chopping-board-oil-250ml_p0171860) (food safe) | $34.98 |
+| [Orana food grade mineral oil 200ml](https://www.amazon.com.au/dp/B0DK2RFBVT) (Australian made) | $18.69 |
 
 Use on the bamboo boards now and then.

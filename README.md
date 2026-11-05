@@ -9,9 +9,9 @@ One Nisbets order and one IKEA order, plus board oil from Amazon.
 | Order | Inc GST, with delivery |
 |---|---|
 | Nisbets | $299.42 |
-| IKEA | $524.03 |
+| IKEA | $515.04 |
 | Amazon | $18.69 |
-| **Total** | **$842.14** |
+| **Total** | **$833.15** |
 
 ## Nisbets
 
@@ -46,7 +46,6 @@ Prices are inc GST.
 |---|---|---|
 | [VALEVÅG pocket sprung mattress, firm, Double](https://www.ikea.com/au/en/p/-70450725) (10% off) | 1 | $314.10 |
 | [BRYNILEN bed legs, birch, 4-pack, 12.5cm](https://www.ikea.com/au/en/p/-30608105) (10% off) | 1 | $27.00 |
-| [APTITLIG bamboo chopping board 45×28cm](https://www.ikea.com/au/en/p/-20233428) (large vegetables) | 1 | $8.99 |
 | [APTITLIG bamboo chopping board 24×15cm](https://www.ikea.com/au/en/p/-40233427) (small vegetables) | 1 | $3.59 |
 | [APTITLIG bamboo butcher's block 45×36cm](https://www.ikea.com/au/en/p/-60233431) (meat) | 1 | $14.39 |
 | [IKEA 365+ sharpening rod, diamond steel, 25cm](https://www.ikea.com/au/en/p/ikea-365-sharpening-rod-diamond-steel-stainless-steel-50623063/) | 1 | $17.99 |
@@ -54,7 +53,7 @@ Prices are inc GST.
 | [IKEA 365+ dinner plate, white, 27cm](https://www.ikea.com/au/en/p/ikea-365-plate-white-90258948/) | 6 | $4.49 |
 | [IKEA 365+ bowl, rounded sides, white, 22cm](https://www.ikea.com/au/en/p/ikea-365-bowl-rounded-sides-white-60279688/) (min. order 4) | 6 | $8.09 |
 | Delivery to 3053 | | $49.00 |
-| **Total** | | **$524.03** |
+| **Total** | | **$515.04** |
 
 - The bed legs can't be collected in store, so the order needs delivery.
 - Bamboo boards and the SKÄRANDE are hand-wash only. The SKÄRANDE container must be filled with water while in use.

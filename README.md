@@ -13,6 +13,19 @@ One Nisbets order and one IKEA order, plus board oil from Amazon.
 | Amazon | $18.69 |
 | **Total** | **$833.15** |
 
+## Split
+
+The crockery, glassware and board oil are a shared pool split three ways. When the house breaks up, each person takes a third. Everything else is paid by one person.
+
+| Person | Covers | Extras | Share of pool | Total |
+|---|---|---|---|---|
+| Will | Bedroom, cookware, utensils, IKEA delivery | $601.74 | $40.52 | $642.26 |
+| Thomas | Knives, sharpening, chopping boards | $109.85 | $40.52 | $150.37 |
+| Zara | | $0.00 | $40.52 | $40.52 |
+| **Total** | | **$711.59** | **$121.56** | **$833.15** |
+
+Shared pool: crockery $75.48, glassware $27.39, board oil $18.69.
+
 ## Nisbets
 
 Prices are ex GST.

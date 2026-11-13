@@ -8,10 +8,10 @@ One Nisbets order and one IKEA order, plus board oil from Amazon.
 
 | Order | Inc GST, with delivery |
 |---|---|
-| Nisbets | $299.42 |
+| Nisbets | $289.63 |
 | IKEA | $515.04 |
 | Amazon | $18.69 |
-| **Total** | **$833.15** |
+| **Total** | **$823.36** |
 
 ## Split
 
@@ -19,10 +19,10 @@ The crockery, glassware and board oil are a shared pool split three ways. When t
 
 | Person | Covers | Extras | Share of pool | Total |
 |---|---|---|---|---|
-| Will | Bedroom, cookware, utensils, IKEA delivery | $601.74 | $40.52 | $642.26 |
+| Will | Bedroom, cookware, utensils, IKEA delivery | $591.95 | $40.52 | $632.47 |
 | Thomas | Knives, sharpening, chopping boards | $109.85 | $40.52 | $150.37 |
 | Zara | | $0.00 | $40.52 | $40.52 |
-| **Total** | | **$711.59** | **$121.56** | **$833.15** |
+| **Total** | | **$701.80** | **$121.56** | **$823.36** |
 
 Shared pool: crockery $75.48, glassware $27.39, board oil $18.69.
 
@@ -43,10 +43,9 @@ Prices are ex GST.
 | [Vogue wooden spoon 305mm](https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772) | D772 | 1 | $2.40 |
 | [Vogue ladle 250ml](https://www.nisbets.com.au/vogue-ladle-250ml/m961) | M961 | 1 | $6.90 |
 | [Nisbets Essentials knife block set](https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083) (chef's, bread, paring, utility, slicer) | DA083 | 1 | $54.90 |
-| [Chef Inox stainless steel dough scraper 150×90mm](https://www.nisbets.com.au/chef-inox-stainless-steel-dough-scraper---150x90mm/fw343) | FW343 | 1 | $8.90 |
 | [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $24.90 |
 | Delivery to Melbourne metro (free over $200 ex GST) | | | $0.00 |
-| **Total** | | | **$272.20 ex GST ($299.42 inc GST)** |
+| **Total** | | | **$263.30 ex GST ($289.63 inc GST)** |
 
 - Knives are hand-wash only.
 - The tumbler page title and URL say 310ml, but the spec and code GF927 are the 285ml. Sold in 12-packs only.

@@ -71,7 +71,7 @@ Prices are inc GST.
 | [SKÄRANDE knife sharpener](https://www.ikea.com/au/en/p/skaerande-knife-sharpener-black-30289170/) (pull-through, ceramic wheels) | 1 | $13.49 | |
 | [IKEA 365+ dinner plate, white, 27cm](https://www.ikea.com/au/en/p/ikea-365-plate-white-90258948/) | 6 | $4.49 | |
 | [IKEA 365+ bowl, rounded sides, white, 22cm](https://www.ikea.com/au/en/p/ikea-365-bowl-rounded-sides-white-60279688/) (min. order 4) | 6 | $8.09 | |
-| Delivery to 3053 | | $39.00 | |
+| Delivery to 3057 | | $39.00 | |
 | **Total** | | **$505.04** | |
 
 - The bed legs can't be collected in store, so the order needs delivery. Mattress + bed legs ordered, delivery $39, arriving Mon 16 Nov.

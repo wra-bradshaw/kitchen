@@ -8,10 +8,10 @@ One Nisbets order and one IKEA order, plus board oil from Amazon.
 
 | Order | Inc GST, with delivery |
 |---|---|
-| Nisbets | $240.24 |
+| Nisbets | $245.74 |
 | IKEA | $505.04 |
 | Amazon | $18.69 |
-| **Total** | **$763.97** |
+| **Total** | **$769.47** |
 
 ## Split
 
@@ -19,12 +19,12 @@ The crockery, glassware and board oil are a shared pool split three ways. When t
 
 | Person | Covers | Extras | Share of pool | Total |
 |---|---|---|---|---|
-| Will | Bedroom, cookware, utensils, IKEA delivery | $532.56 | $40.52 | $573.08 |
-| Thomas | Knives, sharpening, chopping boards | $109.85 | $40.52 | $150.37 |
-| Zara | | $0.00 | $40.52 | $40.52 |
-| **Total** | | **$642.41** | **$121.56** | **$763.97** |
+| Will | Bedroom, cookware, utensils, IKEA delivery | $532.56 | $42.36 | $574.92 |
+| Thomas | Knives, sharpening, chopping boards | $109.85 | $42.35 | $152.20 |
+| Zara | | $0.00 | $42.35 | $42.35 |
+| **Total** | | **$642.41** | **$127.06** | **$769.47** |
 
-Shared pool: crockery $75.48, glassware $27.39, board oil $18.69.
+Shared pool: crockery $75.48, glassware $32.89, board oil $18.69.
 
 ## Delivery
 
@@ -50,9 +50,9 @@ Prices are ex GST. Ordered 13 Nov 2026 – pending delivery, no date yet.
 | [Vogue wooden spoon 305mm](https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772) | D772 | 1 | $2.40 | purchased – pending delivery |
 | [Vogue ladle 250ml](https://www.nisbets.com.au/vogue-ladle-250ml/m961) | M961 | 1 | $6.90 | purchased – pending delivery |
 | [Nisbets Essentials knife block set](https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083) (chef's, bread, paring, utility, slicer) | DA083 | 1 | $54.90 | purchased – pending delivery |
-| [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $24.90 | purchased – pending delivery |
+| [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $29.90 | purchased – pending delivery |
 | Delivery to Melbourne metro (free over $200 ex GST) | | | $0.00 | |
-| **Total** | | | **$218.40 ex GST ($240.24 inc GST)** | |
+| **Total** | | | **$223.40 ex GST ($245.74 inc GST)** | |
 
 - Knives are hand-wash only.
 - The tumbler page title and URL say 310ml, but the spec and code GF927 are the 285ml. Sold in 12-packs only.

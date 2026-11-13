@@ -26,25 +26,33 @@ The crockery, glassware and board oil are a shared pool split three ways. When t
 
 Shared pool: crockery $75.48, glassware $27.39, board oil $18.69.
 
+## Delivery
+
+| Items | Status |
+|---|---|
+| IKEA mattress + bed legs | Purchased, delivery $39, arriving Mon 16 Nov 2026 |
+| Entire Nisbets list (11 items) | Purchased 13 Nov 2026, pending delivery, no date yet |
+| Everything else | Not ordered yet |
+
 ## Nisbets
 
-Prices are ex GST.
+Prices are ex GST. Ordered 13 Nov 2026 – pending delivery, no date yet.
 
-| Item | Code | Qty | Each |
-|---|---|---|---|
-| [Vogue stainless steel frying pan 280mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-induction-frying-pan-280mm/m926) | M926 | 1 | $29.90 |
-| [Vogue frying pan lid 280mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-280mm/m951) | M951 | 1 | $14.90 |
-| [Vogue stainless steel saucepan 200mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-3ltr/m944) | M944 | 1 | $29.90 |
-| [Vogue saucepan lid 200mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-200mm/m949) | M949 | 1 | $7.90 |
-| [Nisbets Essentials stainless steel stew pot with lid 240mm, 5.6L](https://www.nisbets.com.au/nisbets-essentials-stew-pan-5600ml/db254) | DB254 | 1 | $34.90 |
-| [Vogue slotted turner 255mm](https://www.nisbets.com.au/vogue-slotted-turner-255mm/d392) | D392 | 1 | $5.90 |
-| [Vogue kitchen tongs 240mm](https://www.nisbets.com.au/vogue-catering-tongs-10in/j608) | J608 | 1 | $5.90 |
-| [Vogue wooden spoon 305mm](https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772) | D772 | 1 | $2.40 |
-| [Vogue ladle 250ml](https://www.nisbets.com.au/vogue-ladle-250ml/m961) | M961 | 1 | $6.90 |
-| [Nisbets Essentials knife block set](https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083) (chef's, bread, paring, utility, slicer) | DA083 | 1 | $54.90 |
-| [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $24.90 |
-| Delivery to Melbourne metro (free over $200 ex GST) | | | $0.00 |
-| **Total** | | | **$218.40 ex GST ($240.24 inc GST)** |
+| Item | Code | Qty | Each | Status |
+|---|---|---|---|---|
+| [Vogue stainless steel frying pan 280mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-induction-frying-pan-280mm/m926) | M926 | 1 | $29.90 | purchased – pending delivery |
+| [Vogue frying pan lid 280mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-280mm/m951) | M951 | 1 | $14.90 | purchased – pending delivery |
+| [Vogue stainless steel saucepan 200mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-3ltr/m944) | M944 | 1 | $29.90 | purchased – pending delivery |
+| [Vogue saucepan lid 200mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-200mm/m949) | M949 | 1 | $7.90 | purchased – pending delivery |
+| [Nisbets Essentials stainless steel stew pot with lid 240mm, 5.6L](https://www.nisbets.com.au/nisbets-essentials-stew-pan-5600ml/db254) | DB254 | 1 | $34.90 | purchased – pending delivery |
+| [Vogue slotted turner 255mm](https://www.nisbets.com.au/vogue-slotted-turner-255mm/d392) | D392 | 1 | $5.90 | purchased – pending delivery |
+| [Vogue kitchen tongs 240mm](https://www.nisbets.com.au/vogue-catering-tongs-10in/j608) | J608 | 1 | $5.90 | purchased – pending delivery |
+| [Vogue wooden spoon 305mm](https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772) | D772 | 1 | $2.40 | purchased – pending delivery |
+| [Vogue ladle 250ml](https://www.nisbets.com.au/vogue-ladle-250ml/m961) | M961 | 1 | $6.90 | purchased – pending delivery |
+| [Nisbets Essentials knife block set](https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083) (chef's, bread, paring, utility, slicer) | DA083 | 1 | $54.90 | purchased – pending delivery |
+| [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $24.90 | purchased – pending delivery |
+| Delivery to Melbourne metro (free over $200 ex GST) | | | $0.00 | |
+| **Total** | | | **$218.40 ex GST ($240.24 inc GST)** | |
 
 - Knives are hand-wash only.
 - The tumbler page title and URL say 310ml, but the spec and code GF927 are the 285ml. Sold in 12-packs only.
@@ -53,20 +61,20 @@ Prices are ex GST.
 
 Prices are inc GST.
 
-| Item | Qty | Each |
-|---|---|---|
-| [VALEVÅG pocket sprung mattress, firm, Double](https://www.ikea.com/au/en/p/-70450725) (10% off) | 1 | $314.10 |
-| [BRYNILEN bed legs, birch, 4-pack, 12.5cm](https://www.ikea.com/au/en/p/-30608105) (10% off) | 1 | $27.00 |
-| [APTITLIG bamboo chopping board 24×15cm](https://www.ikea.com/au/en/p/-40233427) (small vegetables) | 1 | $3.59 |
-| [APTITLIG bamboo butcher's block 45×36cm](https://www.ikea.com/au/en/p/-60233431) (meat) | 1 | $14.39 |
-| [IKEA 365+ sharpening rod, diamond steel, 25cm](https://www.ikea.com/au/en/p/ikea-365-sharpening-rod-diamond-steel-stainless-steel-50623063/) | 1 | $17.99 |
-| [SKÄRANDE knife sharpener](https://www.ikea.com/au/en/p/skaerande-knife-sharpener-black-30289170/) (pull-through, ceramic wheels) | 1 | $13.49 |
-| [IKEA 365+ dinner plate, white, 27cm](https://www.ikea.com/au/en/p/ikea-365-plate-white-90258948/) | 6 | $4.49 |
-| [IKEA 365+ bowl, rounded sides, white, 22cm](https://www.ikea.com/au/en/p/ikea-365-bowl-rounded-sides-white-60279688/) (min. order 4) | 6 | $8.09 |
-| Delivery to 3053 | | $39.00 |
-| **Total** | | **$505.04** |
+| Item | Qty | Each | Status |
+|---|---|---|---|
+| [VALEVÅG pocket sprung mattress, firm, Double](https://www.ikea.com/au/en/p/-70450725) (10% off) | 1 | $314.10 | purchased – arriving Mon 16 Nov |
+| [BRYNILEN bed legs, birch, 4-pack, 12.5cm](https://www.ikea.com/au/en/p/-30608105) (10% off) | 1 | $27.00 | purchased – arriving Mon 16 Nov |
+| [APTITLIG bamboo chopping board 24×15cm](https://www.ikea.com/au/en/p/-40233427) (small vegetables) | 1 | $3.59 | |
+| [APTITLIG bamboo butcher's block 45×36cm](https://www.ikea.com/au/en/p/-60233431) (meat) | 1 | $14.39 | |
+| [IKEA 365+ sharpening rod, diamond steel, 25cm](https://www.ikea.com/au/en/p/ikea-365-sharpening-rod-diamond-steel-stainless-steel-50623063/) | 1 | $17.99 | |
+| [SKÄRANDE knife sharpener](https://www.ikea.com/au/en/p/skaerande-knife-sharpener-black-30289170/) (pull-through, ceramic wheels) | 1 | $13.49 | |
+| [IKEA 365+ dinner plate, white, 27cm](https://www.ikea.com/au/en/p/ikea-365-plate-white-90258948/) | 6 | $4.49 | |
+| [IKEA 365+ bowl, rounded sides, white, 22cm](https://www.ikea.com/au/en/p/ikea-365-bowl-rounded-sides-white-60279688/) (min. order 4) | 6 | $8.09 | |
+| Delivery to 3053 | | $39.00 | |
+| **Total** | | **$505.04** | |
 
-- The bed legs can't be collected in store, so the order needs delivery.
+- The bed legs can't be collected in store, so the order needs delivery. Mattress + bed legs ordered, delivery $39, arriving Mon 16 Nov.
 - Bamboo boards and the SKÄRANDE are hand-wash only. The SKÄRANDE container must be filled with water while in use.
 
 ## Amazon

@@ -9,9 +9,9 @@ One Nisbets order and one IKEA order, plus board oil from Amazon.
 | Order | Inc GST, with delivery |
 |---|---|
 | Nisbets | $240.24 |
-| IKEA | $515.04 |
+| IKEA | $505.04 |
 | Amazon | $18.69 |
-| **Total** | **$773.97** |
+| **Total** | **$763.97** |
 
 ## Split
 
@@ -19,10 +19,10 @@ The crockery, glassware and board oil are a shared pool split three ways. When t
 
 | Person | Covers | Extras | Share of pool | Total |
 |---|---|---|---|---|
-| Will | Bedroom, cookware, utensils, IKEA delivery | $542.56 | $40.52 | $583.08 |
+| Will | Bedroom, cookware, utensils, IKEA delivery | $532.56 | $40.52 | $573.08 |
 | Thomas | Knives, sharpening, chopping boards | $109.85 | $40.52 | $150.37 |
 | Zara | | $0.00 | $40.52 | $40.52 |
-| **Total** | | **$652.41** | **$121.56** | **$773.97** |
+| **Total** | | **$642.41** | **$121.56** | **$763.97** |
 
 Shared pool: crockery $75.48, glassware $27.39, board oil $18.69.
 
@@ -63,8 +63,8 @@ Prices are inc GST.
 | [SKÄRANDE knife sharpener](https://www.ikea.com/au/en/p/skaerande-knife-sharpener-black-30289170/) (pull-through, ceramic wheels) | 1 | $13.49 |
 | [IKEA 365+ dinner plate, white, 27cm](https://www.ikea.com/au/en/p/ikea-365-plate-white-90258948/) | 6 | $4.49 |
 | [IKEA 365+ bowl, rounded sides, white, 22cm](https://www.ikea.com/au/en/p/ikea-365-bowl-rounded-sides-white-60279688/) (min. order 4) | 6 | $8.09 |
-| Delivery to 3053 | | $49.00 |
-| **Total** | | **$515.04** |
+| Delivery to 3053 | | $39.00 |
+| **Total** | | **$505.04** |
 
 - The bed legs can't be collected in store, so the order needs delivery.
 - Bamboo boards and the SKÄRANDE are hand-wash only. The SKÄRANDE container must be filled with water while in use.

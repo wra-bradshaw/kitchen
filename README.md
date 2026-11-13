@@ -36,23 +36,23 @@ Shared pool: crockery $75.48, glassware $29.60, board oil $18.69.
 
 ## Nisbets
 
-Prices are ex GST, after a 10% off voucher on every item (saved $22.34). Ordered 13 Nov 2026 (order AU12846036) – pending delivery, no date yet.
+Prices are inc GST, after a 10% off voucher on every item (saved $24.58 inc GST). Ordered 13 Nov 2026 (order AU12846036) – pending delivery, no date yet.
 
 | Item | Code | Qty | Each | Status |
 |---|---|---|---|---|
-| [Vogue stainless steel frying pan 280mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-induction-frying-pan-280mm/m926) | M926 | 1 | $26.91 | purchased – pending delivery |
-| [Vogue frying pan lid 280mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-280mm/m951) | M951 | 1 | $13.41 | purchased – pending delivery |
-| [Vogue stainless steel saucepan 200mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-3ltr/m944) | M944 | 1 | $26.91 | purchased – pending delivery |
-| [Vogue saucepan lid 200mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-200mm/m949) | M949 | 1 | $7.11 | purchased – pending delivery |
-| [Nisbets Essentials stainless steel stew pot with lid 240mm, 5.6L](https://www.nisbets.com.au/nisbets-essentials-stew-pan-5600ml/db254) | DB254 | 1 | $31.41 | purchased – pending delivery |
-| [Vogue slotted turner 255mm](https://www.nisbets.com.au/vogue-slotted-turner-255mm/d392) | D392 | 1 | $5.31 | purchased – pending delivery |
-| [Vogue kitchen tongs 240mm](https://www.nisbets.com.au/vogue-catering-tongs-10in/j608) | J608 | 1 | $5.31 | purchased – pending delivery |
-| [Vogue wooden spoon 305mm](https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772) | D772 | 1 | $2.16 | purchased – pending delivery |
-| [Vogue ladle 250ml](https://www.nisbets.com.au/vogue-ladle-250ml/m961) | M961 | 1 | $6.21 | purchased – pending delivery |
-| [Nisbets Essentials knife block set](https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083) (chef's, bread, paring, utility, slicer) | DA083 | 1 | $49.41 | purchased – pending delivery |
-| [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $26.91 | purchased – pending delivery |
+| [Vogue stainless steel frying pan 280mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-induction-frying-pan-280mm/m926) | M926 | 1 | $29.60 | purchased – pending delivery |
+| [Vogue frying pan lid 280mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-280mm/m951) | M951 | 1 | $14.75 | purchased – pending delivery |
+| [Vogue stainless steel saucepan 200mm, 3L](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-3ltr/m944) | M944 | 1 | $29.60 | purchased – pending delivery |
+| [Vogue saucepan lid 200mm](https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-200mm/m949) | M949 | 1 | $7.82 | purchased – pending delivery |
+| [Nisbets Essentials stainless steel stew pot with lid 240mm, 5.6L](https://www.nisbets.com.au/nisbets-essentials-stew-pan-5600ml/db254) | DB254 | 1 | $34.55 | purchased – pending delivery |
+| [Vogue slotted turner 255mm](https://www.nisbets.com.au/vogue-slotted-turner-255mm/d392) | D392 | 1 | $5.84 | purchased – pending delivery |
+| [Vogue kitchen tongs 240mm](https://www.nisbets.com.au/vogue-catering-tongs-10in/j608) | J608 | 1 | $5.84 | purchased – pending delivery |
+| [Vogue wooden spoon 305mm](https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772) | D772 | 1 | $2.38 | purchased – pending delivery |
+| [Vogue ladle 250ml](https://www.nisbets.com.au/vogue-ladle-250ml/m961) | M961 | 1 | $6.83 | purchased – pending delivery |
+| [Nisbets Essentials knife block set](https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083) (chef's, bread, paring, utility, slicer) | DA083 | 1 | $54.35 | purchased – pending delivery |
+| [Olympia Orleans tumblers 285ml, 12 pack](https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927) | GF927 | 1 | $29.60 | purchased – pending delivery |
 | Delivery to Melbourne metro (free over $200 ex GST) | | | $0.00 | |
-| **Total** | | | **$201.06 ex GST ($221.16 inc GST)** | |
+| **Total** | | | **$221.16** ($201.06 ex GST + $20.10 GST) | |
 
 - Knives are hand-wash only.
 - The tumbler page title and URL say 310ml, but the spec and code GF927 are the 285ml. Sold in 12-packs only.

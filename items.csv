@@ -1,15 +1,15 @@
 store,category,item,code,qty,unit_price,gst,url,status
-Nisbets,Cookware,Stainless steel frying pan 280mm 3L,M926,1,26.91,ex,https://www.nisbets.com.au/vogue-stainless-steel-induction-frying-pan-280mm/m926,purchased - pending delivery
-Nisbets,Cookware,Frying pan lid 280mm,M951,1,13.41,ex,https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-280mm/m951,purchased - pending delivery
-Nisbets,Cookware,Stainless steel saucepan 200mm 3L,M944,1,26.91,ex,https://www.nisbets.com.au/vogue-stainless-steel-saucepan-3ltr/m944,purchased - pending delivery
-Nisbets,Cookware,Saucepan lid 200mm,M949,1,7.11,ex,https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-200mm/m949,purchased - pending delivery
-Nisbets,Cookware,Stainless steel stew pot with lid 240mm 5.6L,DB254,1,31.41,ex,https://www.nisbets.com.au/nisbets-essentials-stew-pan-5600ml/db254,purchased - pending delivery
-Nisbets,Utensils,Slotted turner 255mm,D392,1,5.31,ex,https://www.nisbets.com.au/vogue-slotted-turner-255mm/d392,purchased - pending delivery
-Nisbets,Utensils,Kitchen tongs 240mm,J608,1,5.31,ex,https://www.nisbets.com.au/vogue-catering-tongs-10in/j608,purchased - pending delivery
-Nisbets,Utensils,Wooden spoon 305mm,D772,1,2.16,ex,https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772,purchased - pending delivery
-Nisbets,Utensils,Ladle 250ml,M961,1,6.21,ex,https://www.nisbets.com.au/vogue-ladle-250ml/m961,purchased - pending delivery
-Nisbets,Knives,Nisbets Essentials knife block and knives set,DA083,1,49.41,ex,https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083,purchased - pending delivery
-Nisbets,Glassware,Olympia Orleans tumblers 285ml (12 pack),GF927,1,26.91,ex,https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927,purchased - pending delivery
+Nisbets,Cookware,Stainless steel frying pan 280mm 3L,M926,1,29.60,inc,https://www.nisbets.com.au/vogue-stainless-steel-induction-frying-pan-280mm/m926,purchased - pending delivery
+Nisbets,Cookware,Frying pan lid 280mm,M951,1,14.75,inc,https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-280mm/m951,purchased - pending delivery
+Nisbets,Cookware,Stainless steel saucepan 200mm 3L,M944,1,29.60,inc,https://www.nisbets.com.au/vogue-stainless-steel-saucepan-3ltr/m944,purchased - pending delivery
+Nisbets,Cookware,Saucepan lid 200mm,M949,1,7.82,inc,https://www.nisbets.com.au/vogue-stainless-steel-saucepan-lid-200mm/m949,purchased - pending delivery
+Nisbets,Cookware,Stainless steel stew pot with lid 240mm 5.6L,DB254,1,34.55,inc,https://www.nisbets.com.au/nisbets-essentials-stew-pan-5600ml/db254,purchased - pending delivery
+Nisbets,Utensils,Slotted turner 255mm,D392,1,5.84,inc,https://www.nisbets.com.au/vogue-slotted-turner-255mm/d392,purchased - pending delivery
+Nisbets,Utensils,Kitchen tongs 240mm,J608,1,5.84,inc,https://www.nisbets.com.au/vogue-catering-tongs-10in/j608,purchased - pending delivery
+Nisbets,Utensils,Wooden spoon 305mm,D772,1,2.38,inc,https://www.nisbets.com.au/vogue-wooden-spoon-12in/d772,purchased - pending delivery
+Nisbets,Utensils,Ladle 250ml,M961,1,6.83,inc,https://www.nisbets.com.au/vogue-ladle-250ml/m961,purchased - pending delivery
+Nisbets,Knives,Nisbets Essentials knife block and knives set,DA083,1,54.35,inc,https://www.nisbets.com.au/nisbets-essentials-knife-block-and-knives-set/da083,purchased - pending delivery
+Nisbets,Glassware,Olympia Orleans tumblers 285ml (12 pack),GF927,1,29.60,inc,https://www.nisbets.com.au/olympia-orleans-hi-ball-glasses-310ml/gf927,purchased - pending delivery
 IKEA,Bedroom,VALEVÅG pocket sprung mattress firm Double,70450725,1,314.10,inc,https://www.ikea.com/au/en/p/-70450725,purchased - pending delivery
 IKEA,Bedroom,BRYNILEN bed legs birch 4-pack 12.5cm,30608105,1,27.00,inc,https://www.ikea.com/au/en/p/-30608105,purchased - pending delivery
 IKEA,Chopping boards,APTITLIG bamboo chopping board 24x15cm,40233427,1,3.59,inc,https://www.ikea.com/au/en/p/-40233427,
